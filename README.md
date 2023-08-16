@@ -4,7 +4,7 @@
 
 💻 Eu sou uma desenvolvedora back-end em formação
 
-🎓 Atualmente estudo [[Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2)] na [[Cubos Academy](https://cubos.academy/)]
+🎓 Atualmente estudo [[Desenvolvimento de Software com Foco em Back-End]([https://cubos.academy/cursos/desenvolvimento-de-software-v2](https://www.cubos.academy/cursos/desenvolvimento-de-software))] na [[Cubos Academy](https://cubos.academy/)]
 
 🔎 Também sou curiosa sobre Marketing e Experiência do Usuário
 
