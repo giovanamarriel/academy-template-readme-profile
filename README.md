@@ -1,5 +1,7 @@
 # Oii! Sejam bem-vindos ao meu GitHub :)
 
+<img src ="/kitten-cat.gif">
+
 ### Sobre mim
 
 💻 Desenvolvedora back-end em formação ⚙️
