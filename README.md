@@ -2,15 +2,13 @@
 
 ### Sobre mim
 
-💻 Eu sou uma desenvolvedora back-end em formação
+💻 Desenvolvedora back-end em formação ⚙️
 
 🎓 Atualmente estudo [[Desenvolvimento de Software com Foco em Back-End](https://www.cubos.academy/cursos/desenvolvimento-de-software)] na [[Cubos Academy](https://cubos.academy/)]
 
-🔎 Também sou curiosa sobre Marketing e Experiência do Usuário
+🔎 Entusiasta das àreas de Marketing e Experiência do Usuário
 
-### Eu já trabalhei com... 🔧
-
-**Tecnologias e Ferramentas**
+### Já trabalhei com... 🔧
 
 <!-- (Aqui você pode adicionar tecnologias que aprendeu no curso, já listamos algumas delas, e outras que já domina)) -->
 
@@ -25,7 +23,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![ExpressJs](https://img.shields.io/badge/express-%23323330.svg?style=for-the-badge&logo=express&logoColor=%23F7DF1E)
-
+![Wordpress](https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=%23F7DF1E)
+![Xampp](https://img.shields.io/badge/xampp-EFEEE5?style=for-the-badge&logo=xampp&logoColor=FB7A24)
 <!-- (Você pode adicionar novas tecnologias insira ![Nome da Tecnologia](https://img.shields.io/badge/-[Nome da tecnologia]-[Cor do fundo]?style=flat-square&logo=[Nome da tecnologia])) -->
 
 
