@@ -27,6 +27,8 @@
 ![ExpressJs](https://img.shields.io/badge/express-%23323330.svg?style=for-the-badge&logo=express&logoColor=%23F7DF1E)
 ![Wordpress](https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=%23F7DF1E)
 ![Xampp](https://img.shields.io/badge/xampp-EFEEE5?style=for-the-badge&logo=xampp&logoColor=FB7A24)
+![PostgreSQL](https://img.shields.io/badge/postgresql-2f6792?style=for-the-badge&logo=postgresql&logoColor=ffffff)
+
 
 ### GitHub Stats ⚡
 <div>
